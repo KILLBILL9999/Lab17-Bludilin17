@@ -98,3 +98,8 @@ int FindIndex(int[] numbers, int target)
 
     return -1;
 }
+
+double CalculateAverage(int[] numbers)
+{
+    return (double)SumArray(numbers) / numbers.Length;
+}
