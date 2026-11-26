@@ -1,0 +1,15 @@
+C:\Users\QQ\Documents\Lab17-Bludilin17\bin\Debug\net10.0\Lab17-Bludilin17.exe
+C:\Users\QQ\Documents\Lab17-Bludilin17\bin\Debug\net10.0\Lab17-Bludilin17.deps.json
+C:\Users\QQ\Documents\Lab17-Bludilin17\bin\Debug\net10.0\Lab17-Bludilin17.runtimeconfig.json
+C:\Users\QQ\Documents\Lab17-Bludilin17\bin\Debug\net10.0\Lab17-Bludilin17.dll
+C:\Users\QQ\Documents\Lab17-Bludilin17\bin\Debug\net10.0\Lab17-Bludilin17.pdb
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.AssemblyInfoInputs.cache
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.AssemblyInfo.cs
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.csproj.CoreCompileInputs.cache
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.sourcelink.json
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.dll
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\refint\Lab17-Bludilin17.dll
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.pdb
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\Lab17-Bludilin17.genruntimeconfig.cache
+C:\Users\QQ\Documents\Lab17-Bludilin17\obj\Debug\net10.0\ref\Lab17-Bludilin17.dll
